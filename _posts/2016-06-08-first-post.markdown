@@ -1,40 +1,35 @@
 ---
 layout: post
-title:  "First Post"
+title:  "The Oil Cleansing Method:Is it right for you?"
 date:   2016-06-08 13:43:24 -0700
 categories: oils site
-image: /images/tubes_example.jpg
+image: /images/roseoil2.jpg
 ---
-Welcome to the site, this is your first post. Generally the first paragraph of the post will appear above the fold on the front page. So make sure the first few lines really draw the reader in.
+The short answer is yes, yes it is.
 
-If you want to learn formatting for the Markdown language (which this post is
-written in) see here: [markdown_cheatsheet.pdf](http://scottboms.com/downloads/documentation/markdown_cheatsheet.pdf)
+But lets take a look beneath the surface (pun intended).
+For the majority of my life I've been at war with my acne prone skin, armed with a counter top full of products that claimed they would be my saving grace. "Oil free!" "For blemish prone skin!" They would boast. Like many people out there I would scrub and scrub, my oily prone skin would completely dry out, at least for awhile, but by afternoon my skin would feel oily again. Alas, as soon as my blemishes did dry out, new ones were already forming. Putting oil on my face on purpose was the last thing I would consider.
 
-For a quick tutorial, just search google for "markdown tutorial" and you should
-be on your way.
+Fast forward to my 20's when I became passionate about taking an all natural, holistic approach to all aspects of my life.
+Once I dug a little deeper into the science behind oil cleansing that I realized I had been totally hoodwinked! By applying harsh chemicals like benzoyle peroxide, salicylic acid and harsh cleansers I was stripping my skin of all it's natural oils, and in response my sebaceous glands were working overtime time to replace those precious oils. Thus my skin would appear oily again, so I would scrub again and thus a vicious (and profitable for the companies selling these products) cycle was born.
+It was then that I began to realize that maybe I didn't have oily skin after all, it was in fact sensitive, and I was only making it appear oily.
 
-Adding images is a little trickier, but basically you just upload the image
-into the images directory. Then specify the path as `/images/my_image_name.jpg`
+So how does this system work?
+The major rule is; oil dissolves oil. By applying high quality natural oils onto the face, they are able to penetrate deep into the pores and dissolve the naturally occurring sebum and debris that have become trapped under the surface of the skin through out the day. As the oils and debris pulled from the skin are rinsed off of the skin, a slight amount of moisturizer remains and thus the sebaceous glands are no longer overcompensating for having all of the oil stripped away.
 
-The image declaration looks like this:
+Our bodies are naturally far wiser than we may give them credit for. My skin completely transformed once I ceased fire with the chemical warfare I had been waging. I quickly learned that the approach to my skin care needed to be as simple and holistic as all other aspects of my life. To get the best results I learned to use natural elements growing from the earth to work with the nature of my body, and not against it.
+And this has all spiraled to the present day where I now develop the herbal infused and essential oil packed cleansers in my shop.
 
-    ![alt text](/images/my_image_name.jpg)
+Oil cleansing is really both simple and enjoyable.
+You simply massage a small amount of oil onto the face for anywhere from 2-5 minutes in a circular motion, which is also great for stimulating blood circulation, and just feels fantastic after a day of (hopefully) smiles and laughter.The added essential oils are also profound for the use of aromatherapy for a few minutes of grounding and stress reduction at the beginning and end of each day. You simultaneously ease tension and clear up your skin at the same time.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+After a few minutes, take a warm towel (not hot, using care not to burn the skin), and lightly press it over the face until it cools. The steam helps to open the pores even further, allowing the oil to really penetrate the skin. I like to repeat this 3-5 times before wiping away the excess oil. Though sometimes when in a hurry, I simply splash water onto my face to rinse the oil away and still receive great benefit.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+And that's it! It is so simple and so enjoyable, it easily becomes a wonderful daily ritual suitable for any skin type. In minutes you receive the benefits of a stimulating message, the magic of herbs and essential oil, the stress relief of aromatherapy, and an exercise in staying present. Oh and beautiful, healthy soft skin of course!
+On that note,
+Happy Oil Cleansing!
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
