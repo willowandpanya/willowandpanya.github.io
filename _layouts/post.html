@@ -24,7 +24,7 @@
                 </div>
                 <div class="meta">
                   <time class="published" datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%B %d, %Y" }}</time>
-                  {% for category in page.categories limit:1 %}
+                  {% for category in page.categories limit:5 %}
                     <a href="#">{{ category }}</a>
                   {% endfor %}
 
