@@ -3122,10 +3122,7 @@
 
 		@media screen and (max-width: 980px) {
 
-			#header .links {
-				/* always display the links
-				display: none; */
-			}
+      /* previously we hid the links at 980 */
 
 		}
 
@@ -3135,6 +3132,10 @@
 				height: 2.75em;
 				line-height: 2.75em;
 			}
+
+			  #header .links {
+				  display: none;
+			  }
 
 				#header h1 {
 					padding: 0 0 0 1em;
